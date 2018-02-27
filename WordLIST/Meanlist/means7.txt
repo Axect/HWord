@@ -1,0 +1,50 @@
+Adj  fertile; productive 다산의, 상상력이 풍부한, (토지가) 기름진
+N  happiness; skillfulness, especially at expressing things; adeptness 지복, 더 없는 행복, 교묘함, 멋들어진 표현, 경사
+N  great warmth or earnestness; ardor; zeal 열정, 백열, 염열(ardor)
+V  to restrain; to hamper  속박하다, 족쇄를 채우다
+N  faithfulness; loyalty  충실, 정절, 신빙성
+Adj  based on figures of speech; expressing something in terms usually for something else; metaphorical 비유적인, 수식이 많은; 상징적인; 조형적인, 구상적인
+N  skillful maneuvering; subtlety; craftiness  솜씨, 교묘한 기교, 술책, 책략, 예리함
+Adj  glaringly bad; notorious; scandalous 악명 높은, 극악스런, 명백한
+V  show off; to display ostentatiously  자랑하다, 과시하다; 우롱하다; 허영을 부리다
+V  to disregard something out of disrespect 비웃다, 조롱하다
+N  a minor character flaw 약점, 결점; 자만하고 있는 점; 칼이 휘는 부분(칼의 가운데서 칼 끝까지)
+V  to stir up; to instigate  찜질하다, 조장하다, 선동하다
+v  to refrain from ; to abstain 억제하다, 참다, 아끼다; 삼가다, 몸을 사리다
+v  to do without ; to forbear 보류하다, ...없이 지내다, 무시하다
+v  to abandon ; to renounce ; to relinquish 버리다, 버리고 돌보지 않다
+a  accidental ; occurring by chance 우연의 행운의
+v  to fail ; to collapse ; to sink  배가 침몰하다, 좌절하다, 실패하다, 침수시키다
+a  like brothers 형제의, 우애의
+a  frantic ;  frenzied 발광한, 열광적인
+a  economical ; penny-pinching  검약한, 검소한; 비용이 들지 않는, 간소한
+a  secretive ; sly  은밀한, 교활한, 수상쩍은
+a  useless ; hopeless  쓸데없는, 효과 없는; 알맹이 없는, 시시한
+a  talkative; chatty  수다스러운, 장황한, 졸졸한 소리를 내는, 시끄럽게 지저귀는
+n  a type or category, especially of art or writing 장르, 유형, 약식; 풍속화
+a  refined ; polite ; aristocratic ; affecting refinement 품위 있는, 우아한; 유행을 쫓는; 집안이 좋은
+v  to make gestures, especially when speaking or in place of speaking 손짓으로 의사소통하다, 손짓을 통해 의사소통을 하다
+n  surplus ; an overabundance 너무 많은, 차고 넘침, 포만, 과식
+a  pompous ; using a lot of big, fancy words in an attempt to sound impressive 호언 장담하는, 과장하는
+a  absurdly exaggerated  웅장한, 장엄한, 젠체하는 거드름 피우는
+a  given freely (said of something bad) ; unjustified ; unprovoked ; uncalled for  무료의, 무보수의; 이유없는, 불필요한
+n  seriousness  진지함, 위엄, 장중함; 중대함; 중력
+a  sociable ; enjoying the company of others 군거하는, 군립성의; 사교적인; 무리의, 군집의
+n  cunning ; duplicity ; artfulness 교활, 음흉한 꾀, 배반심, 책략
+a  overused ; trite ; stale  낡아빠진, 진부한
+a  unlucky 운이 나쁜, 불행한(unlucky) 
+n  a forerunner ; a signal of 선구자, 전조; 선구가 되다
+n  the pursuit of pleasure as a way of life  쾌락주의
+n  leadership, especially of one nation over another 패권 주도권
+n  any belief that is strongly opposed to established beliefs 이단, 이교
+a  impervious to external influence ; airtight  밀봉한, 밀폐한, 연금술의, 신비한, 연금술사
+n  golden age ; prime 전성기(prime)
+n  a break or interruption, often from work 틈, 갈라진 틈; 탈락
+n  an organization based on rank or degree ; pecking order 성직자 계급제도, 성직자 정치; 분류 체계, 계층
+a  overly dramatic ; theatrical  연극의, 연극 배우의; 배우, 연극
+n  a sermon 훈계, 설교
+a  uniform ; made entirely of one thing  동질의, 같은 종류의(uniform)
+n  thrifty management of resources ; livestock farming  농업, 절약
+n  an exaggeration used as a figure of speech ; exaggeration 과장법; 과장, 과대, 과장된 표현(exaggeration)
+a  uncertain ; unproven  가설의, 가정적인
+n  one who attacks popular beliefs or institutions 우상타파주의자, 구습 타파주의자
